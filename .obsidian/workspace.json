@@ -1,0 +1,174 @@
+{
+  "main": {
+    "id": "498c0d9ed86369b0",
+    "type": "split",
+    "children": [
+      {
+        "id": "7a2d92d6d7226cc1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6f2e85da70195e65",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Agregasi dengan Group BY & HAVING.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "29e9502234b5714b",
+    "type": "split",
+    "children": [
+      {
+        "id": "6120dfbba1c70016",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6a3c21b28fde92e0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8231e5f2490a08c3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d3728f12aeb0882c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ca7869ad6d9f303e",
+    "type": "split",
+    "children": [
+      {
+        "id": "5021b39c2c5c5bdd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7cc7ec08903e882a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Agregasi dengan Group BY & HAVING.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e92303021496fc0f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Agregasi dengan Group BY & HAVING.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "84ebc6b3401cc32e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b9ea48629251f101",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Agregasi dengan Group BY & HAVING.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "6f2e85da70195e65",
+  "lastOpenFiles": [
+    "aset/gamba.md",
+    "Agregasi dengan Group BY & HAVING.md",
+    "aset/~asdat18.tmp",
+    "aset/basdat18.JPG",
+    "aset/basdat17.JPG~RF702b74.TMP",
+    "aset/~asdat17.tmp",
+    "aset/basdat17.JPG",
+    "aset/basdat16.JPG~RF6fa9b1.TMP",
+    "aset/~asdat16.tmp",
+    "aset/basdat16.JPG",
+    "aset/basdat15.JPG~RF6f663f.TMP",
+    "aset/~asdat15.tmp",
+    "aset/basdat15.JPG",
+    "aset/basdat14.JPG~RF6f05e0.TMP",
+    "aset/~asdat14.tmp",
+    "aset/basdat14.JPG",
+    "aset/~asdat13.tmp",
+    "aset/basdat13.JPG",
+    "aset/basdat12.JPG",
+    "aset/basdat11.JPG",
+    "aset/basdat10.JPG",
+    "aset/basdat9.JPG"
+  ]
+}
